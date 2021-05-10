@@ -4,6 +4,7 @@
 #include <utility>
 #include <sstream>
 #include <cstdlib>
+#include <cstring>
 
 cvx::CvxFont::CvxFont(const cv::String& fontType)
 {
